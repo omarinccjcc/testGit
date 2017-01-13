@@ -1,3 +1,7 @@
 example using git
 more changes
 it's new change for test
+
+
+------
+it is example of git checkout --<file>
