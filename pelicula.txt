@@ -1,1 +1,3 @@
-example using git.
+example using git
+more changes
+it's new change for test
